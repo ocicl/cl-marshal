@@ -4,6 +4,6 @@ Simple and fast serialization of all kinds of Common Lisp data structures.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/wlbr/cl-marshal.git |
-| commit  | 5fe128e                                    |
+| commit  | 33629b8                                    |
 | systems | marshal                                    |
 |---------+--------------------------------------------|
